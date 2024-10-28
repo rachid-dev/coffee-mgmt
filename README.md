@@ -1,9 +1,13 @@
 # Deployed version
-You can find the live version at : https://coffee-mgmt.web.app
+This prject was built with React and is connected to an API.
+The API is a Node Js application built with Express and MongoDB.
+
+You can find the deployed version at : https://coffee-mgmt.web.app
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
